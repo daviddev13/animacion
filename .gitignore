@@ -1,0 +1,5 @@
+# Ignore build and distribution folders
+/build/
+/dist/
+/test/
+/imagenes/
